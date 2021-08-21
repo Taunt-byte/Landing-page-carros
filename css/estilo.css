@@ -4,8 +4,9 @@
     padding: 0;
 }
 
-.titulo{
+.titulo h1{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: yellow;
+    background-color: blueviolet;
+    stroke: aliceblue;
 }
