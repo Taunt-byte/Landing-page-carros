@@ -3,6 +3,6 @@
 Status: Em Desenvolvimento
 ## Sobre
 
-+ LandinPage feito
++ LandinPage feito para se vender carros
 
 ## Tecnologias
